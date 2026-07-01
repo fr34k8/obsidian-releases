@@ -22834,6 +22834,13 @@
     "repo": "joepetrakovich/obsidian-request"
   },
   {
+    "id": "rich-text-editor",
+    "name": "Rich Text Editor",
+    "author": "querke",
+    "description": "A rich text markdown editor based on MDXEditor. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "querke/obsidian-rich-text-editor"
+  },
+  {
     "id": "cloudflare-kv-sync",
     "name": "Cloudflare KV Sync",
     "author": "alexmensch",
@@ -26801,13 +26808,6 @@
     "author": "dangehub",
     "description": "Manage translations for plugins with hot-reload support and crowdsourced dictionaries. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "open-obsidian-i18n/i18n-plus"
-  },
-  {
-    "id": "vault-operator",
-    "name": "Vault Operator",
-    "author": "Sebastian Hanke",
-    "description": "Real AI agent for your vault. Coworker, Copilot & thinking partner, that maintains your memory & knowledge, adapts to your workflows, uses plugins, skills & tools with full safety controls. BYOK & MCP - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "pssah4/vault-operator"
   },
   {
     "id": "yeelen-murmur",
@@ -35777,6 +35777,13 @@
     "repo": "mmomm-org/obsidian-markdown-mason"
   },
   {
+    "id": "specorator",
+    "name": "Specorator",
+    "author": "Luis Mendez",
+    "description": "Plan, run, and review provider-native AI agents inside your vault, keeping every conversation and edit as Markdown you own. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "luis85/specorator"
+  },
+  {
     "id": "canvas-kit",
     "name": "Canvas Kit",
     "author": "yaye.work",
@@ -35901,13 +35908,6 @@
     "author": "tiancaijb",
     "description": "Org-mode style GTD workflow for Obsidian: TODO/DONE, priorities, scheduled/deadline dates, agenda view, quick capture. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "tiancaijb/obsidian-gtd"
-  },
-  {
-    "id": "thirdbrain",
-    "name": "ThirdBrain",
-    "author": "ImCuriosity",
-    "description": "Extract propositions from any text, connect them with typed logical edges, auto-link to your existing graph, and resolve contradictions — all locally with your choice of AI. — 한국어 텍스트에 최적화된 논리 추출 지원! - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "imcuriosity/third-brain-release"
   },
   {
     "id": "md-to-flomo",
@@ -36652,6 +36652,13 @@
     "repo": "abdulkader-safi/obsidian-safi-site-audit-plugins"
   },
   {
+    "id": "bestest-buddy",
+    "name": "Bestest Buddy",
+    "author": "Nathan King",
+    "description": "A vault-scoped writing companion that lives in your sidebar — hatches an ASCII pet per vault and reacts to how you write. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "nateking-dev/bestest-buddy"
+  },
+  {
     "id": "table-of-content",
     "name": "Table of Content",
     "author": "secum3r",
@@ -36729,11 +36736,18 @@
     "repo": "kxwu222/mimocode-obsidian"
   },
   {
-    "id": "google-drive-vault-sync",
-    "name": "Google Drive Vault Sync",
-    "author": "Haniewicz",
-    "description": "Two-way auto/manual sync for an Obsidian vault using Google Drive. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "haniewicz/ObsidianGoogleDriveSync"
+    "id": "ink-floating-toc",
+    "name": "Ink Floating TOC",
+    "author": "Jayanta Kumar Das",
+    "description": "A highly customizable, floating Table of Contents with multi-device support. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dsvictor/ink-floating-toc"
+  },
+  {
+    "id": "gym-workout-tracker",
+    "name": "Gym Workout Tracker",
+    "author": "piero24",
+    "description": "Track gym workouts with templates, calendar view, and quick data entry. No vault clutter, all data in one file. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "piero24/obsidian-gym-tracker"
   },
   {
     "id": "sidebar-resource-saver",
