@@ -26810,6 +26810,13 @@
     "repo": "open-obsidian-i18n/i18n-plus"
   },
   {
+    "id": "vault-operator",
+    "name": "Vault Operator",
+    "author": "Sebastian Hanke",
+    "description": "Real AI agent for your vault. Coworker, Copilot & thinking partner, that maintains your memory & knowledge, adapts to your workflows, uses plugins, skills & tools with full safety controls. BYOK & MCP - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "pssah4/vault-operator"
+  },
+  {
     "id": "yeelen-murmur",
     "name": "yeelen-Murmur",
     "author": "Yeelen",
@@ -35908,6 +35915,13 @@
     "author": "tiancaijb",
     "description": "Org-mode style GTD workflow for Obsidian: TODO/DONE, priorities, scheduled/deadline dates, agenda view, quick capture. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "tiancaijb/obsidian-gtd"
+  },
+  {
+    "id": "thirdbrain",
+    "name": "ThirdBrain",
+    "author": "ImCuriosity",
+    "description": "Extract propositions from any text, connect them with typed logical edges, auto-link to your existing graph, and resolve contradictions — all locally with your choice of AI. — 한국어 텍스트에 최적화된 논리 추출 지원! - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "imcuriosity/third-brain-release"
   },
   {
     "id": "md-to-flomo",
